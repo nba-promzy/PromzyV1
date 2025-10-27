@@ -1,0 +1,14 @@
+{
+  "name": "promzy-v1",
+  "version": "1.0.0",
+  "description": "best bot in ghana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.2",
+    "pino": "^8.0.0",
+    "node-cache": "^5.1.2"
+  }
+}
